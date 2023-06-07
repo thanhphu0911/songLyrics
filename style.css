@@ -1,0 +1,59 @@
+html {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  body{
+    margin:0;
+  }
+  
+  h1, p{
+    text-align: center;
+  }
+  
+  h1{
+    font-family: 'Silkscreen', cursive;
+    letter-spacing: 14px;
+    background: -webkit-linear-gradient(45deg,#78dc52, #003fad,#87f2ff,#a4839f, #5c406c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  h2{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+    text-align: right;
+    margin: 0 400px 0 0;
+    color: white;
+  }
+  
+  p{
+    font-family: 'Red Hat Mono', monospace;
+    color: white;
+  }
+  
+  .oh1{
+    font-size: 28px;
+  }
+  
+  .oh2{
+    font-size: 24px;
+  }
+  
+  .oh3{
+    font-size: 20px;
+  }
+  footer{
+    font-size:2em;
+  }
+  
+  footer>p{
+    font-family: 'Libre Barcode 128 Text', cursive;
+    color: #000;
+    font-size:20px;
+    text-align: right;
+    padding-right: 40px;
+  }
